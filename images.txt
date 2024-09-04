@@ -1,5 +1,4 @@
 nginx
-mysql:8.0.37
-redis:6.2.14
-halohub/halo:2.18
-quay.io/keycloak/keycloak:25.0.1
+mysql:8.1.0
+whyour/qinglong:latest
+probezy/cpolar
