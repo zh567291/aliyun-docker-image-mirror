@@ -2,7 +2,3 @@ nginx
 mysql:8.1.0
 whyour/qinglong:latest
 probezy/cpolar
-ALIYUN_REGISTRY：crpi-rzf8fdvb62ii80sr.us-west-1.personal.cr.aliyuncs.com
-ALIYUN_NAME_SPACE: 567291
-ALIYUN_REGISTRY_USER: zh567291
-ALIYUN_REGISTRY_PASSWORD：54631111s
