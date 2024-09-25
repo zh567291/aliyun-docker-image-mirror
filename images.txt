@@ -1,4 +1,1 @@
-nginx
 mysql:8.1.0
-whyour/qinglong:latest
-probezy/cpolar
